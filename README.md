@@ -15,8 +15,8 @@ It focuses on recreating the layout, navigation, music cards, sidebar, and music
 - 📚 Library section
 - 🎶 Music/album cards
 - ▶️ Music player interface
-- ⏮️ Previous and next controls
-- 📱 Responsive layout
+
+
 
 ## 🛠️ Technologies Used
 
