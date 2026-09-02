@@ -28,8 +28,8 @@ It focuses on recreating the layout, navigation, music cards, sidebar, and music
 ```text
 Spotify-Clone/
 │
-├── index4.html
-├── style4.css
+├── index.html
+├── style.css
 ├── logo.png
 ├── library_icon.png
 ├── forward_icon.png
